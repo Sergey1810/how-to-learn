@@ -102,9 +102,6 @@
   display: flex;
   justify-content: center;
   color: #2f80ed;
-}
-
-.two-columns__brief{
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
